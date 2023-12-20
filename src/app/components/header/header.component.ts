@@ -11,4 +11,8 @@ import { ButtonComponent } from '../button/button.component';
 })
 export class HeaderComponent {
   title: string = 'Title tracker';
+
+  toggleAddTask() {
+    console.log('toggle');
+  }
 }
