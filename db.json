@@ -21,8 +21,20 @@
     {
       "text": "dwadwa",
       "day": "dwadwa",
-      "reminder": false,
+      "reminder": true,
       "id": 4
+    },
+    {
+      "text": "test",
+      "day": "test",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "hello",
+      "day": "3rd June 2022",
+      "reminder": true,
+      "id": 6
     }
   ]
 }
